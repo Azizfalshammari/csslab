@@ -1,11 +1,13 @@
 h1, h2, h3, p, li {
-    
+    text-shadow: 10px;
     color: aquamarine;
-   
+   background-image: url(https://www.bing.com/th?id=OIP.G37tgeQqSNt7v2oPfj9ltQHaE7&w=148&h=100&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2);
 }
 
 h1 {
     margin: 0 30%;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
 }
 
 li {
