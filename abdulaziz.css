@@ -1,0 +1,62 @@
+h1, h2, h3, p, li {
+    color: white;
+    
+   
+}
+
+h1 {
+    margin: 0 30%;
+}
+
+li {
+    font-style: italic;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+    align-content: center;
+    background-color: black;
+    padding: 0 10%;
+
+}
+
+
+
+ul {
+    margin: 0 10%;
+    list-style-type:none
+    
+}
+
+
+a {
+    color: red;
+}
+
+.Sectionfirst{
+    
+    background-color: black;
+    border: solid;
+    border-color: red;
+    padding: 10%;
+    display: inline-flex;
+    align-content: center;    
+    margin: 0 30%;
+    transition: ease-in-out;
+}
+
+.Sectionfirst:hover{
+border: dotted;
+border-color: blueviolet;
+transition: ease-in-out;
+}
+
+
+
+div {
+border-top: solid;
+border-color: red;
+margin-top: 20px;
+border-bottom: dotted;
+margin-bottom: 20px;
+}
